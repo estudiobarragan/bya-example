@@ -170,7 +170,7 @@ var controller ={
             var validate_name = !validator.isEmpty(params.name);
             var validate_surname = !validator.isEmpty(params.surname);;
             var validate_email = !validator.isEmpty(params.email) && validator.isEmail(params.email);
-        }catch{
+        }catch(error){
             return res.status(500).send({
                 status: "success",
                 message: "Error de validacion, faltan datos.", params
