@@ -1,4 +1,4 @@
-'user strict'
+'use strict'
 
 var validator = require('validator');
 var bcrypt = require('bcryptjs');
