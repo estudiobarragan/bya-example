@@ -1,0 +1,88 @@
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+TypeError: Cannot read property 'split' of undefined
+    at uploadAvatar (/home/kn000482/public_html/bya-example/controllers/user.js:277:35)
+    at Layer.handle [as handle_request] (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kn000482/public_html/bya-example/node_modules/express/lib/router/route.js:137:13)
+    at Form.<anonymous> (/home/kn000482/public_html/bya-example/node_modules/connect-multiparty/index.js:114:7)
+    at Form.emit (events.js:198:13)
+    at /home/kn000482/public_html/bya-example/node_modules/multiparty/index.js:579:12
+    at process._tickCallback (internal/process/next_tick.js:61:11)

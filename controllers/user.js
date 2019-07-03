@@ -263,16 +263,15 @@ var controller ={
             });
         }
 
-
         // Conseguir el nombre y la extension del archivo subido
         var file_path = req.files.file0.path;
-        var file_split = file_path.split('\\');
+        //var file_split = file_path.split('\\');
 
         // ** Adverntencia ** en linux o mac, cambiar a
-        // var file_split = file_path.split('/');
+         var file_split = file_path.split('/');
 
         var file_name = file_split[2];
-
+	
         // Extension del archivo
         var ext_split = file_name.split('\.');
         var file_ext = ext_split[1];
